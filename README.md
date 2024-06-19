@@ -29,6 +29,7 @@ When you are initially working your website, it is very useful to be able to pre
     ```
     On MacOS the commands are:
     ```bash
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
     brew install ruby
     brew install node
     gem install bundler
